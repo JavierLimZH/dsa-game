@@ -8,7 +8,7 @@ const LabPage: React.FC = () => {
         <Grid item xs={12} md={8} style={{height: '100vh'}}>
           <iframe
             title='turtle trinket'
-            src="https://trinket.io/embed/python/fb0b8bceee?showInstructions=true"
+            src="https://trinket.io/embed/python/f7ffec70b0?showInstructions=true"
             width="100%"
             height="100%"
             frameBorder="0"
@@ -22,7 +22,7 @@ const LabPage: React.FC = () => {
             title='lab gform'
             width="100%"
             height="100%"
-            src= "https://docs.google.com/forms/d/e/1FAIpQLSfiprEP9f5MuVQhP04_t6nnmtoxgH9eRw-R7_gyqjXElHyuMw/viewform?embedded=true"
+            src= "https://forms.office.com/Pages/ResponsePage.aspx?id=cnEq1_jViUiahddCR1FZKmVkqqw0knpLqI3ZUBtQS1ZURTRKMU9BTllBM1RZSkpBSEdVM0pKRzBKTC4u&embed=true"
             frameBorder="0"
             marginWidth={0}
             marginHeight={0}
